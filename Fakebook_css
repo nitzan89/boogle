@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Fakebook - Effi the Ragdoll</title>
+
+      <style>
+        body {
+          font-family: georgia;
+          font-size: 16pt;
+          background-image: url("https://i.imgur.com/DH6XRZQ.png");
+          background-repeat: repeat;
+          padding-left: 70px;
+        }
+
+        h1 {
+          color: #d595f5;
+          font-size: 26pt;
+          font-family: tahoma;
+        }
+
+        h1:hover {
+          color: #740e82;
+        }
+
+        h3 {
+          color: #7bb7e2;
+          font-size: 22pt;
+          font-family: tahoma;
+        }
+
+        p {
+          color: #2f3d44;
+          font-style: italic;
+        }
+
+        p:hover {
+          background-color: yellow;
+        }
+
+        a {
+          text-decoration: underline;
+          text-decoration-style: dashed;
+        }
+
+        #pic {
+          border-radius: 50%;
+          height: 400px;
+        }
+
+        #pic:hover {
+          box-shadow: 0px 0px 25px #555;
+        }
+
+        #info {
+          width: 600px;
+        }
+
+        #insta {
+          margin-top: 30px;
+          padding: 15px;
+          width: 600px;
+          border-radius: 10px;
+          background: #d595f5;
+          text-align: center;
+          vertical-align: middle;
+        }
+
+        #insta:hover {
+          background: #fff;
+        }
+
+      </style>
+    </head>
+
+    <body >
+
+      <h1><u>Fakebook</u></h1>
+
+      <h3>Effi the Ragdoll</h3>
+
+      <img src="https://i.imgur.com/w3beq5m.png" id="pic">
+      <br><div id="insta"><a href="https://www.instagram.com/effi.the.ragdoll/" class="text">See more photos</a></div>
+
+      <div id="info">
+        <p><b>Name:</b> Effi</p>
+        <p><b>Age:</b> 5 Months</p>
+        <p><b>City:</b> Vienna</p>
+        <p><b>Hobbies:</b> Scratching and sleeping <sup>zZzZ</sup></p>
+        <p><b>Life motto:</b> Eat until you're sleepy, sleep until you're hungry</p>
+      </div>
+
+
+    </body>
+</html>

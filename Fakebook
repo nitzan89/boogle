@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Fakebook - Effi the Ragdoll</title>
+      <link rel="stylesheet" href="style.css" />
+    </head>
+
+    <body >
+
+      <h1><u>Fakebook</u></h1>
+
+      <h3>Effi the Ragdoll</h3>
+
+      <img src="https://i.imgur.com/w3beq5m.png" height="300px" width="300px">
+      <br><a href="https://www.instagram.com/effi.the.ragdoll/">See more photos</a>
+
+      <p><b>Name:</b> Effi</p>
+      <p><b>Age:</b> 5 Months</p>
+      <p><b>City:</b> Vienna</p>
+      <p><b>Hobbies:</b> Scratching and sleeping <sup>zZzZ</sup></p>
+      <p><b>Life motto:</b> Eat until you're sleepy, sleep until you're hungry</p>
+
+
+    </body>
+</html>
